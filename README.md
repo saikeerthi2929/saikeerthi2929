@@ -33,7 +33,7 @@
 
 ## 💜 <span style="color:#DA70D6;">About Me</span>
 
-- 👩‍🎓 <span style="color:#FF66C4;">Final year B.Tech CSE (AI & ML)</span> from VIITW  
+- 👩‍🎓 <span style="color:#FF66C4;">Final year B.Tech CSE (AI & ML)</span>   
 - 🎓 <span style="color:#DA70D6;">Research Intern @ SCAAI</span> | IEEE Student Ambassador  
 - 🌟 Passionate about blending AI, AR/VR, and Design Thinking  
 - 🔥 Exploring <span style="color:#FF66C4;">ReactJS, Flask, Node.js</span>  
