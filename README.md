@@ -96,7 +96,7 @@
 - ✅ Machine Learning with Python - IBM  
 - ✅ DevOps Bootcamp – DevTown  
 - ✅ Ongoing Flutter Bootcamp  
-- 🏆 Hackathon Winner (3x)
+
 
 ---
 
