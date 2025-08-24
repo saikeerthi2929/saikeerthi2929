@@ -69,12 +69,6 @@
 </p>
 
 ---
-## 🏆 <span style="color:#FF44CC;">Trophy Showcase</span>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikeerthi2929&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" />
-</p>
-
 ## 📊 <span style="color:#FF66C4;">Contribution Graph</span>
 
 <p align="center">
