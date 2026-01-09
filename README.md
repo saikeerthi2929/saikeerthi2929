@@ -95,36 +95,32 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-
-
-
-## 📈 <span style="color:#C778DD;">GitHub Stats</span>
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikeerthi2929&show_icons=true&theme=radical&count_private=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikeerthi2929&layout=compact&theme=radical&border_radius=12" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthi2929&theme=radical&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saikeerthi2929&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikeerthi2929&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
-
-## 🏆 <span style="color:#FF44CC;">Trophy Showcase</span>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikeerthi2929&theme=algolia&row=1&no-frame=true&no-bg=true" />
+  <img src="https://streak-stats.demolab.com?user=saikeerthi2929&theme=radical&hide_border=true" height="170"/>
 </p>
 
----
-## 📊 <span style="color:#FF66C4;">Contribution Graph</span>
+
+## 🏆 Trophy Showcase
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikeerthi2929&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saikeerthi2929&theme=algolia&row=1&margin-w=10&no-frame=true" />
 </p>
 
----
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikeerthi2929&theme=react-dark&hide_border=true" />
+</p>
+
 
 ## 💻 <span style="color:#DA70D6;">Highlighted Projects</span>
 
@@ -132,7 +128,6 @@
 |-----------|---------|------------|
 | 🦺 **Ok!Asaan** | AI, AR, Flask, IoT | Smart safety monitoring in warehouses |
 | 💊 **Disease Detector** | Python, ML, Flask | Predicts diseases via symptoms |
-| 🧼 **Women Hygiene Site** | HTML, Canva | Awareness & aid to rural girls |
 | 🌱 **Crop Recommender** | Streamlit, ML | Recommends ideal crops for soil/season |
 | 🧠 **AI Chatbot Assistant** | Flask, NLP | Chat assistant for user support |
 
