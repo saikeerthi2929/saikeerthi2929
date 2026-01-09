@@ -126,12 +126,12 @@
 
 | 🌟 Project | 🚀 Tech | 📄 Summary |
 |-----------|---------|------------|
-| 🦺 **Ok!Asaan** | AI, AR, Flask, IoT | Smart safety monitoring in warehouses |
-| 💊 **Disease Detector** | Python, ML, Flask | Predicts diseases via symptoms |
-| 🌱 **Crop Recommender** | Streamlit, ML | Recommends ideal crops for soil/season |
-| 🧠 **AI Chatbot Assistant** | Flask, NLP | Chat assistant for user support |
+| 🧠 **AmbedkarGPT** | LangChain, ChromaDB, HuggingFace, Ollama, Python | Command-line Q&A system built on Dr. B. R. Ambedkar’s speeches using LLMs and vector databases |
+| 🔗 **URL Shortener** | React, TypeScript, Vite, Redux Toolkit | Modern URL shortener with custom aliases, expiry time, and click analytics |
+| 🦺 **Femora** | AI, Web Tech | Lightweight AI-powered safety web app designed to assist individuals during emergencies |
+| 🎨 **Mirror Muse** | Python, AI, Generative Models | Emotion-aware AI app that turns voice and mood into stunning AI-generated art |
+| 🤖 **InturnAI** | AI, LLMs, Automation | Intelligent virtual intern that plans, researches, codes, and reports tasks autonomously |
 
----
 
 ## 🎓 <span style="color:#FF9DD9;">Certifications & Learnings</span>
 
